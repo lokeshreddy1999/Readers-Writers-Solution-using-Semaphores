@@ -1,4 +1,4 @@
-#include "semaphore_lib_without_busywaiting.h" 
+#include "semaphore_lib_through_while_loop.h" 
 #define NUMB_THREADS 6 //specify the no of threads
 
 
